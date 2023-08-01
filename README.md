@@ -1,5 +1,3 @@
-Sure, here is an updated version with images for the programming languages:
-
 # Hi there, I'm Hailemelekot Melakie!
 
 Welcome to my Github page! I'm a passionate programmer with a keen interest in web development. I work with various technologies and frameworks including:
