@@ -3,6 +3,10 @@
 Welcome to my Github page! I'm a passionate programmer with a keen interest in web development. I work with various technologies and frameworks including:
 
 <p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="auto" height="40"/> 
+  </a>
+  
   <a href="https://reactjs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
   </a> 
@@ -33,6 +37,27 @@ Welcome to my Github page! I'm a passionate programmer with a keen interest in w
   <a href="https://www.mongodb.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="auto" height="40"/> 
   </a>
+
+  <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/57d6cd14d35c46d55129e4fccce3f8e25fc5a47a1039ed466728c0daa5f0efd6/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343230322f706f73746d616e2d69636f6e2e737667" alt="Postman" width="auto" height="40"/> 
+  </a>
+  
+<a href="https://redux.js.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="auto" height="40"/> 
+</a>
+  
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="auto" height="40"/> 
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="auto" height="40"/> 
+  </a>
+
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="auto" height="40"/> 
+  </a> 
+  
 </p>
 
 ## About Me
