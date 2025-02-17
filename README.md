@@ -14,7 +14,7 @@ Welcome to my Github page! I'm a passionate programmer with a keen interest in w
     <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="auto" height="40"/> 
   </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://blog.theodo.com/static/ba2166b279b234c4824d1c2fb299ced2/ee604/ts_logo.png" alt="Typescript" width="auto" height="40"/> 
+    <img src="https://blog.theodo.com/_astro/ts_logo.BstCNrTU_1Dbxpr.webp" alt="Typescript" width="auto" height="40"/> 
   </a>  
   <a href="https://expressjs.com" target="_blank"> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="ExpressJS" width="auto" height="40"/> 
